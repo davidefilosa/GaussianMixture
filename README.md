@@ -10,5 +10,4 @@ A mixture model is a probabilistic model to represent the presence of subpopulat
 
 The Gaussian Mixture is a **probabilistic** method and its advantage is that once clusters have been identified in which to divide the population, **it will tell us the probability of each individual belonging to each subpopulation. The probability will help to evaluate better edge cases.**
 
-![Gaussian Mixture](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gaussian-mixture-example.svg/540px-Gaussian-mixture-example.svg.png)
 ![Guassian Mixture](Gaussian-mixture.ppm)
