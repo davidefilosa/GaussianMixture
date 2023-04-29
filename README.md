@@ -1,4 +1,6 @@
 # Gaussian Mixture
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/GaussianMixture/blob/master/Gaussian%20Mixture%20%28Clustering%29%20.ipynb)
+
 
 ## What will we do in this project?
 
